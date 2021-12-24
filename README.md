@@ -1,4 +1,3 @@
-
 # Open Source
 
 > What is Open Source ?
@@ -10,11 +9,6 @@ Open source is source code that is made freely available for possible modificati
 All can contribute to this repository.
 
 First, Enter your name here.
-
-# Open-Source
-> All can contribute to this repository.
-
-> First, Enter your name here.
 
 
 1. _ _ _ _ _ _ _ _
