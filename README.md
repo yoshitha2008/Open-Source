@@ -1,2 +1,2 @@
 # Open-Source
-All can contribute to this repository.
+> All can contribute to this repository.
