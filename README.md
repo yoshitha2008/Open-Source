@@ -8,10 +8,13 @@ Open source is source code that is made freely available for possible modificati
 
 All can contribute to this repository.
 
-First, Enter your name here.
+First, Enter your name and email address here.
+
+Eg: 1. Yoshitha Rathnayake / rmysbrathnayake@gmail.com
 
 
 1. Yoshitha Rathnayake
 2. _ _ _ _ _ _ _ _
 
 
+ 
