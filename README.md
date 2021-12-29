@@ -13,7 +13,7 @@ First, Enter your name and email address here.
 Eg: 1. Yoshitha Rathnayake / rmysbrathnayake@gmail.com
 
 
-1. Yoshitha Rathnayake
+1. Yoshitha Rathnayake / yoshithabandara2008@gmail.com
 2. _ _ _ _ _ _ _ _
 
 
