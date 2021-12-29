@@ -1,4 +1,3 @@
-
 # Open Source
 
 > What is Open Source ?
@@ -11,11 +10,8 @@ All can contribute to this repository.
 
 First, Enter your name here.
 
-# Open-Source
-> All can contribute to this repository.
-
-> First, Enter your name here.
-
 
 1. Yoshitha Rathnayake
 2. _ _ _ _ _ _ _ _
+
+
